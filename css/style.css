@@ -16,7 +16,7 @@ body {
     color: var(--lighttext);
 }
 
-#funnyCarousel img, #lovingCarousel img, #partnerCarousel img, #mumcarousel img {
+#funnyCarousel img, #lovingCarousel img, #partnerCarousel img, #mumcarousel img, #creativeCarousel img {
     width: auto;
     max-height: 90dvh;
 }
