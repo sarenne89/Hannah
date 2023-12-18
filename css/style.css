@@ -1,0 +1,17 @@
+:root {
+    --darkpurple: #320a28;
+    --tyrianpurple: #511730;
+    --brandy: #8e443d;
+    --antiquebrass: #cb9173;
+    --flax: #e0d68a;
+    --lighttext: #ffffff;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: var(--darkpurple);
+    color: var(--lighttext);
+}
