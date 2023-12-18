@@ -15,3 +15,8 @@ body {
     background-color: var(--darkpurple);
     color: var(--lighttext);
 }
+
+#funnyCarousel img {
+    width: auto;
+    max-height: 80dvh;
+}
