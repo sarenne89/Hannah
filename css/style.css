@@ -49,3 +49,9 @@ body {
     max-height: 90dvh;
 }
 
+#head {
+    height: 50dvh;;
+    background-color: var(--brandy);
+    text-shadow: 2px 2px 8px #320a28;
+}
+
